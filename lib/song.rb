@@ -59,6 +59,7 @@ class Song
         artist_counter[artist] = 1
       end
     end
+    artist_counter
   end
-  artist_counter
+
 end
