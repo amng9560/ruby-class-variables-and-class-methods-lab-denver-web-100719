@@ -60,4 +60,5 @@ class Song
       end
     end
   end
+  artist_counter
 end
